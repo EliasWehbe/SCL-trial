@@ -1,8 +1,8 @@
 # Craigslist Scraper
-
-sendemail.ini:
-Please configure this file prior to running.
-
-auto.py:
-Performing process automatically.
+<br>
+sendemail.ini:<br>
+Please configure this file prior to running.<br>
+<br>
+auto.py:<br>
+Performing process automatically.<br>
 

@@ -53,6 +53,9 @@ EXPORT_FIELDS = [
     'posting_id',
     'posting_time',
     'posting_update',
+    'scrape_date',
+    'email',
+    'email_date',
 ]
 
 #EXPORT_ITEM = '_RIGHTMOVE_SALE'

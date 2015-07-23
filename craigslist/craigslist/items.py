@@ -16,9 +16,9 @@ class LeaseItem(Item):
     price = Field()
     body = Field()
     bedrooms = Field()
-    #attrgroup = Field()
     posting_id = Field()
-    #postinginfo = Field()
     posting_time = Field()
     posting_update = Field()
-
+    scrape_date = Field()
+    email = Field()
+    email_date = Field()
